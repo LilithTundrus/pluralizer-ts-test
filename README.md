@@ -1,5 +1,7 @@
 # pluralizer-ts-test
 
+[![Build Status](https://travis-ci.org/LilithTundrus/pluralizer-ts-test.svg?branch=master)](https://travis-ci.org/LilithTundrus/pluralizer-ts-test)
+
 A Node.js module that returns the plural form of any noun
 
 ## Installation 
