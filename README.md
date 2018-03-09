@@ -4,6 +4,8 @@
 
 A Node.js module that returns the plural form of any noun
 
+**Note: This is just for testing typescript/travis.**
+
 ## Installation 
 ```sh
 npm install pluralizer-ts-test --save
