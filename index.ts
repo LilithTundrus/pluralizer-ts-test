@@ -4,6 +4,6 @@ import * as pluralize from 'pluralize'
 * @Param {string}
 * @Return {string}
 */
-export function getPlural(str: any): string {
-    return pluralize.default.plural(str)
+export function getPlural (str: any) : string {
+  return pluralize.default.plural(str)
 }
