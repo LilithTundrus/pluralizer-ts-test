@@ -1,0 +1,23 @@
+{
+  "name": "pluralizer-ts-test",
+  "version": "0.1.0",
+  "description": "Testing npm + typescript deployments.",
+  "main": "index.js",
+  "scripts": {
+   "build": "tsc"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilithTundrus/pluralizer-ts-test.git"
+  },
+  "author": "Lilith Tundrus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilithTundrus/pluralizer-ts-test/issues"
+  },
+  "homepage": "https://github.com/LilithTundrus/pluralizer-ts-test#readme",
+  "dependencies": {
+    "@types/pluralize": "0.0.28",
+    "pluralize": "^7.0.0"
+  }
+}
